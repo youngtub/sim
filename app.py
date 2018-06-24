@@ -32,3 +32,6 @@ def distance():
 def mismatch(array):
     mismatch = oddOneOut(array)
     return json.dumps(mismatch)
+
+if __name__ == '__main__':
+    app.run(debug=True, use_reloader=True)
