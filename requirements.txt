@@ -1,0 +1,5 @@
+Flask
+gunicorn
+gensim
+nltk
+Python 2.7.15
