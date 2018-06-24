@@ -5,7 +5,7 @@ import os
 import nltk
 from process import *
 
-text = open('./data/bible.txt', 'r')
+text = open('./data/ronaldo.txt', 'r')
 content = gensim.utils.simple_preprocess(text.read())
 edited = processText(content)
 
