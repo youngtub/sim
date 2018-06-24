@@ -1,8 +1,14 @@
 from flask import Flask, request
 from sim import *
 import json
+import logging
+
+# gunicorn main:app --log-level debug -t 500 -w 1 -b 127.0.0.1:8007
 
 app = Flask(__name__)
+
+LOGGER = logging.getLogger('gunicorn.error')
+
 
 @app.route('/')
 def home():
@@ -32,6 +38,12 @@ def distance():
 def mismatch(array):
     mismatch = oddOneOut(array)
     return json.dumps(mismatch)
+
+@app.errorhandler(500)
+def server_error(e):
+    # Log the error and stacktrace.
+    logging.exception('An error occurred during a request.')
+    return 'An internal error occurred.', 500
 
 if __name__ == '__main__':
     app.run(debug=True, use_reloader=True)

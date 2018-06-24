@@ -2,8 +2,9 @@ import nltk
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import stopwords
 import gensim
+
 # nltk.download('wordnet')
-# nltk.download('stopwordsg')
+# nltk.download('stopwords')
 lmtzr = WordNetLemmatizer()
 stopwordsList = stopwords.words('english')
 

@@ -5,17 +5,27 @@ import os
 import nltk
 from process import *
 
-text = open('./data/ronaldo.txt', 'r')
+LOGGER = logging.getLogger('gunicorn.error')
+
+text = open('./data/thesis.txt', 'r')
 content = gensim.utils.simple_preprocess(text.read())
 edited = processText(content)
+print('CONTENT READY')
+# model = gensim.models.Word2Vec(
+#     [edited],
+#     min_count=2,
+#     workers=10)
+# print('MODEL TRAINING')
+# model.train(edited, total_examples=len(edited), epochs=10)
+# model.save('./models/thesis')
 
-model = gensim.models.Word2Vec(
-    [edited],
-    min_count=2,
-    workers=10)
+model = gensim.models.Word2Vec.load('./models/thesis_sentence')
+LOGGER.debug('Ready')
 
-model.train(content, total_examples=len(content), epochs=10)
-
+# bigram_transformer = gensim.models.Phrases([edited])
+# smodel = gensim.models.Word2Vec(bigram_transformer[[edited]])
+# smodel.save('./models/thesis_sentence')
+# print('done')
 def similarToWord(word):
     output = model.wv.most_similar(positive=word, topn=30)
     return output

@@ -1,0 +1,373 @@
+﻿Senior Comprehensive Paper 
+Aditya Nirvaan Ranganathan
+Spring 2017
+
+
+The Infinities of Time and Electronic Music
+
+
+Messiaen’s Oraison and the Ondes Martenot during the interwar period in France
+
+
+
+
+
+
+If electronic musical sounds are distinctly non-human, then what are they? 
+Electronic timbres are generally associated with the devices that produce them, and are by nature ‘otherworldly.’ They are created by machines that convert pure electrical energy into a musical tone, or in other words, an electronic musical instrument. Sound is generated using several ‘oscillators,’ which rapidly vibrate at certain frequencies based on the note and timbre selected by the performer. The resulting tone, amplified using a speaker, is a pitch performed with a dynamic and articulation, realized in a user defined instrument-sound, or timbre. Although the composer and performer have extensive control over how notes sound, at no point in the process does the performer come into physical contact with the source of the sound. 
+Electronic music thus relies on a degree of separation between the performer and resulting sound. By definition, it necessitates the absence of acoustic resonance and physical expressivity that is intrinsic to the sounding of acoustic instruments by performers. Mechanically synthesized sound is unwavering and monotonous, compared to acoustic instruments that respond to the slightest change in contact. This stems from the nature of the ‘performer’ in electronic music, who is tasked with relaying timbral and performance-related information to the machine that then produces and amplifies the corresponding sound. The degree of separation between performer and sound is what affords electronic music a detachment from certain aspects of human performance, and limitless timbral possibilities for composers and performers to explore.
+My study traces musical developments during the interwar period in France. To establish a contextual understanding of this period, I investigate the diverse musical and cultural responses to WW1, particularly the French Neoclassical and early 20th-century Avant-garde movements. I then shift attention to explore the development of Maurice Martenot’s Ondes Martenot, the first electronic musical instrument whose invention is closely intertwined with technological advancements made during WW1. I hope to demonstrate that amidst the emerging musical developments of the interwar period, electronic music offered a different path forward.  With its tactile instrumental interface conceived as a hybrid between a Cello and Piano, and its unprecedented electronic timbres, the Ondes presented an array of intriguing sonic possibilities that certain composers were drawn to.  
+One of the most prominent composers who was an early advocate of the instrument, and remained its primary proponent for decades, was Olivier Messiaen.  
+In this paper, I focus on the composer’s Oraison [Prayer] (1937). This piece first appeared as the fourth movement of Fete des belles eaux (1937) titled “L’eau;” and has been performed as an independent work under the title ‘“Oraison” since 1940.[1] 
+The music that has come to be known as Oraison held great personal and theological significance for Messiaen, something that the composer expressed in several commentaries and interview responses. Using the composition as a case study, I explore Messiaen’s philosophical ideas expressed in his writings, his reflections on the Ondes, and the medium of electronic music more broadly. My analysis of the piece aims to interpret how Messiaen “invite[s] the listener to the paradoxical pleasure of observing eternity as it happens.”[2] I argue that this composition harnesses several unique qualities of the Ondes, and that Messiaen’s experimental instrumentation contributes to his attempt at musically representing a divine moment. 
+
+
+In the Aftermath of World War One
+
+
+The ‘Great War’ marked a transition into an age of technological advancement. The destruction caused by newly invented machines such as tanks, machine guns, and high explosive shells, was unprecedented. Historians often describe the nature of the war as a clash of 20th-century technology with 19th-century warfare. Mechanical innovations were used to carry out acts physically impossible by humans - an ethereal power tragically used for human destruction. The world was alarmingly alerted to the potential utility, for better or for worse, of mechanistic devices possessed in their ability to efficiently, predictably, and indiscriminately, carry out defined functions that often were beyond the realm of human capability. 
+World War One was the first ‘total war’ in which each country devoted most of its efforts and resources towards winning the war, while civilian areas and infrastructure were considered legitimate targets. Further, a large proportion of adult males from each country were present at the fronts, and unable to make music. Thus classical musical performances were limited in the 1910’s. Popular wartime songs emerged to fill the void and advance the war effort, spreading the message of patriotism and military pride using march-like song structure. Messiaen expressed his utter distaste for this style of music, which he believed was the baldest example of the negation of rhythm: "Most people believe that rhythm means the regular values of a military march. Whereas, in fact, rhythm is an unequal element, following fluctuations, like the waves of the sea, like the noise of the wind, like the shape of tree branches.”[3] The exploration of fresh, unpredictable rhythms is an important feature shared by the various post-war musical movements I will proceed to discuss after establishing the broader musical climate of late 19th- and early 20th-century France. 
+The period from 1875 until 1920 was marked by an increasingly freer tonal framework. Stylistically we generally think of this aesthetic period as late-Romanticism and Impressionism. Prominent composers of this period, such as Debussy, Dukas, Faure, and Ravel, were interested in exploring tone "colours" through orchestration, timbre, and contextual harmony rather than exclusively functional tonality.[4] In many ways, these turn-of-the-century composers were working to create pleasurable, fresh sounds, without completely departing from the conventions of tonal music. Debussy’s rhythmic construction was particularly important for contemporary and subsequent composers, stemming from its ability to fluidly bend and suspend musical time. 
+In victorious 1920’s France, music and the arts in general experienced a time of rapid development and eclecticism. Composers explored a range of different paths, each based on a distinct reaction to the war. Some urged a return to rationality and a ‘call to order,’ while others expressed their disillusionment through flippant, satirical works. These movements are called Neoclassicism and [early 20th century] Avant-garde respectively. In addition, the notable advent of Jazz music, which arrived from America and flourished in the underground cabaret scene in France, is also an important musical style that emerged in this period.
+Drawing on the music of the classical and baroque periods, Neoclassicism aimed to move away from the allegedly mawkish, formless late-Romantic and Impressionist works. Following the first two tumultuous decades of the twentieth century, the movement aimed to restore order, balance, clarity, economy, and emotional restraint.[5] It falls within the larger ‘Return to Order’ artistic movement following WW1, rejecting both the excessively passionate and avant-garde in favour of traditional art. 
+Much of Stravinsky’s work during the 1920’s is considered Neoclassical, in that it infused advanced harmony and rhythm with traditional musical forms and phrase structure. For instance, his Octet (1923) for an ensemble of wind instruments incorporated Sonata and Rondo forms; theme and variations structure; and waltz, march, and fugue elements. In some works, Stravinsky explicitly draws on specific works of the past, such as in Pulcinella (1920), which uses themes which he believed were by the 18th-century Italian composer Giovanni Pergolesi.[6]
+Although the Octet was initially considered a bad joke by the press, Copland wrote that within a decade “it had become clear that Stravinsky was embarking on a new and important stylistic phase that was destined to influence composers everywhere by bringing out a latent objectivist tendency in the music of the period, by openly reverting to the ideals, forms, and textures of the pre-Romantic era.”[7]
+Notable French composers who contributed to Neoclassicism include Igor Stravinsky, Arthur Honegger, and Darius Milhaud. Francis Poulenc, Maurice Ravel, and Erik Satie also contributed to French Neoclassicism at various points in their careers, although less exclusively. In its focus on rationality and its rejection of obscurity and excess, Neoclassicism presented a historically respectful, logic-driven musical path.
+Erik Satie’s Parade (1917) represented an alternate strain of musical thought in which flippancy, facetiousness, satire, and audience discomfort were embraced. The ‘ballet realiste’ as it was subtitled, contrasted a dull, grey, industrial-urban existence with the vibrancy and playfulness of a circus. The work was in part a critique on society’s focus on dutiful, industrialized pursuits and the resulting loss of inner creativity and youthful excitement.[8] Commissioned by Sergei Diaghilev, director of Ballets Russes, Parade was artistically a collaboration between Satie, surrealist playwright Jean Cocteau, and modernist painter Pablo Picasso. It incorporates circus performers, street entertainers, and carnival acts to attract and/or repel the audience. Musically, it was highly experimental in its use of sound effects such as a tapping typewriter, clanging milk bottles, foghorns, and gunshots. The premier of Parade was Diaghilev's second ‘succes de scandale’ that incited audience outrage, intense controversy in the musical community, and wildly critical reviews comparable to the premier of Stravinsky’s Le Sacre du Printemps (1913). Evidently, musicians and audiences alike initially felt that the work did not respect the gravity of post-war circumstances, and blatantly intended to provoke and disturb the listener. Its rejection of logic and seriousness, combined with its disregard of the listeners’ opinion, paved the road for composers to explore this bold, unprecedented style that was termed ‘Avant-garde’. This movement was in opposition to the ideals of Neoclassicism, and represented a disillusioned, somewhat Dadaist musical response to the terrors and memory of the war.  
+Satie’s student, Francis Poulenc (1899-1963), was a major proponent of the new Avant-garde style in the 1920’s. In his early works, Poulenc was known for his high spirits and irreverence, influenced by Satie’s scandalous Parade and other works in this vein. He achieved a substantial degree of critical acclaim and popular recognition during this time, and like his teacher was commissioned by Diaghilev to compose a full length ballet score titled Les biches (1924). The success of his work brought him to the forefront of French music at the age of 25, but his seemingly frivolous, lighthearted style possessed none of the irony and satirical grit with which his predecessors approached their compositions.[9] 
+Given that Poulenc was still an adolescent during WW1, his experience and memory of the war likely would have been less severe than that of composers of the previous generation, a stylistic difference that can be detected in his early music. Similarly, Messiaen, born in 1908, was also part of the younger generation of French composers who did not experience the war firsthand. The predominant style of Fete des belles eaux, reminiscent of Poulenc’s playful, carefree music of the 1920’s, is a prime example of this non-ironic orientation. Despite the heavy casualties and devastation suffered during the war, that France emerged victorious from the war, and the larger global backdrop of the “Roaring 20’s”, contributed to this optimistic mindset. 
+This leads me to argue that the younger generation of composers was not necessarily writing music to express their societal and musical opinions on the war and its aftermath. In the spirit of Avant-garde and Impressionist music, they were eager to utilize and repurpose the expanding stylistic ideas of the time; in more simplistic terms, play with new toys. Thus it comes as little surprise to me that the first composers to experiment with the new music-making machine that emerged in the late 1920’s were those of the post-war generation, contemporaries of Poulenc and Messiaen. 
+
+
+
+
+
+
+Emergence of Electronic Music
+
+
+During the same period as the arrival and development of the French Neoclassical and Avant-garde movements, Maurice Martenot and Lev Teremen worked to harness technological innovations first experienced during the war. Both were wartime radio operators and, working in France and Russia independently and respectively, they each attempted to invent machines that could be used to play music during the 1920’s. They had gained extensive knowledge of and experience with oscillator-based radio communication, and directly experienced the flurry of technological advancement during WW1. Martenot was a concert cellist, and aimed to create a tactile instrument based on well-known instruments, namely the Cello and Piano. Teremen, on the other hand, had little musical background, and was more motivated by the technological achievement and magic trick of creating music from thin air.[10] 
+Although the Neoclassical and Avant-garde movements represented two different aesthetic responses to WW1, there was an implied natural inclination in these movements to find distance from the Great War, and by extension the machines that enabled the carnage.  Martenot and Teremen, however, represented a contrasting post-war attitude. Despite their proximity to machine-enabled destruction, Martenot’s and Teremen’s pursuits implied their recognition that a machine itself could not rationally be blamed, since it is not sentient and solely carries out a function defined and initiated by a human. By definition, a machine is fundamentally a way to indiscriminately convert pure energy into some defined, meaningful form. The possible task is bound only by physical laws of the universe and human imagination, and will be precisely repeated indefinitely. This was evident from WW1, in which machines had demonstrated their capacity for uncanny, potentially limitless destruction. Conversely, this implied the opportunity for boundless constructive contribution to the world. I believe that both Martenot and Theremen hoped to leverage this potential, and that both inventor’s extensive experience working closely with machines afforded them this insight. 
+Using the Soviet government-sponsored research into proximity sensors,[11] Teremen created an instrument that relied solely on spatial placement of the performer’s hands moving in air. The placement of each hand determines the pitch and dynamic of the resulting note, and is detected by two antennas. He called this instrument the ‘Theremin’, which even today remains the most well-known electronic musical instrument, and remains in limited use. That the performer controls the sound ‘directly’ by electromagnetic interaction of the hands, without physically touching anything, was completely novel at the time. 
+Maurice Martenot, on the other hand, was a reputed cellist, and wanted to create an instrument that was not a complete departure from the instrument interface. Like Teremen, Martenot spent years listening to the consistency of frequencies from radio oscillations, and had command over the emerging practice of “heterodyning,” combining different radio frequencies to produce notes. During the war he entertained French troops in his spare time by playing melodies using his radio equipment, and broadcast them from a loudspeaker on his truck. Martenot aimed to synergize this method with the expressivity of the cello and a tactile piano interface, to create a versatile electronic instrument that was immediately familiar to orchestral musicians. He filed a patent in 1928 for “Perfectionnement aux instruments de musique électriques”[12] (Improvements to electronic music instruments), and called the instrument the Ondes Martenot. It was commonly known as just the ‘Ondes', which means ‘waves’. Although both instruments were patented in 1928, the Ondes came slightly earlier than the Theremin and can thus be called the first electronic musical instrument.[13] Regardless of the order, the coincidental invention of these two instruments marked the birth of electronic music.  
+Unlike Lev Teremen’s Theremin, the Ondes was not a complete departure from a traditional instrument interface.[14] It has two components: a keyboard and a pressure-sensitive pad. One finger on the performer's right hand was inserted into a ring parallel to the keyboard to select the desired note, with a ‘ribbon’ allowing for glissandi, while the performer’s left hand controls articulation, dynamics, vibrato, and timbre on the pressure-sensitive pad, intended to emulate a bow.[15] Messiaen expressed his appreciation for the intentionality of the design: “The Ondes Martenot is very practical; it’s electronic music produced by an instrument. I mean to say that it’s predictable and that it preserves the power of the instrumentalist.”[16]
+Sound is generated by several electronic oscillators, each of which vibrates at a certain frequency and is algorithmically combined with the other oscillators based on the selected timbre. An individual oscillator can be thought of as a hummingbird rapidly beating its wings. Superimposing multiple oscillators at various frequencies is in effect adding overtones and harmonic content to the fundamental (perceived) pitch, which sculpts the timbre of the sound. 
+ As the final step in the process, sound is propagated using multiple loudspeakers. This is a critical differentiator between electronic and acoustic music, both in terms of sound quality and the visual aspect of performance. Electronic sound is completely contingent on amplification - the music cannot be heard by either the performer or audience without the use of a loudspeaker. This is an important consideration in the medium of electronic music, which I will discuss later. 
+Following the appearance of the Theremin in Paris in 1927, Martenot organized an international tour to spread his newly invented instrument. He debuted the ‘Musical Waves’ (Ondes Musicales) at the Paris Opera on April 20, 1928, then traveled across Europe and America for the next two years, notably giving a performance as an ‘Ondist’ with the Philadelphia Orchestra under Leopold Stokowski in 1930. During this decade, the Ondes slowly garnered interest from several French composers. Arthur Honegger, a prominent French composer at the time, was the first to use it in his Semiramis (1934).[17] Subsequently, younger composers such as Andre Jolivet incorporated the Ondes in one of his earlier works, the Danse incantatoire (1935), as did Edgard Varese in his Ecuatorial (1934). The absence of electronic works by composers who experienced the war as adults leads me to argue that the older generation of composers was somewhat reluctant to embrace a machine as a musical instrument. On the other hand, the instrument primarily garnered interest among a younger generation of composers, who had not experienced the traumas of the war firsthand. Messiaen, for example, had been a boy of 6 when the war broke out. By the time of the Ondes’ release, the 19-year-old Messiaen would not have associated the instrument with the technologies of war that gave birth to its invention.
+Composers of the younger generation were excited by the augmented expressive possibilities that stemmed from the nuanced instrument interface, but the Ondes' timbre controls were of primary interest to most of them. Messiaen echoed this sentiment: “I’ve a great affection for the Ondes Martenot, which allows for the creation of new timbres and new accents almost at will...limitless possibilities for attacks, dynamics, and above all, new timbres.”[18] The instrument came with seven preset timbre buttons[19] that could be selected by the left hand:
+
+
+
+
+
+
+Name of Timbre
+	Description
+	Onde (O)
+	Sine wave; similar to Flute or Ocarina
+Messiaen - “resembles at once the human voice, the saxophone, and the hunting horn”
+	Creux (C)
+	Triangle wave; similar to Oboe and Clarinet in high register
+	Gambe (G)
+	Roughly Square wave; similar to String instruments
+	Petit Gambe (g)
+	Similar to Gambe, but player can control number of harmonics present; similar to Organ
+	Nasillard (N)
+	Pulse wave; similar to Bassoon
+	Octaviant (8)
+	Reinforced first harmonic; similar to a popular Organ setting (“4 foot stop”)
+	Souffle (S)
+	Pink noise (amalgamation of wide range of frequencies); indefinite pitch
+	
+
+Table 1: Ondes Martenot Timbre Presets
+
+
+Further, these seven core timbres and harmonic processes could be mixed and matched to create new ones. The potential for limitless timbre sculpting was a remarkable achievement of the instrument. In Messiaen’s opinion, “the beauty of the Ondes Martenot is precisely its ability to create thousands of timbres. By manipulating little electric controls on the left side of the instrument, the timbre is changed; new ones are invented.”[20] 
+The implications of this feature have had far reaching consequences in 20th century musical developments, particularly to the concept of a synthesizer. By allowing timbre to function as a glove worn by a musical instrument interface, the metaphorical hand, the Ondes established an alternative, modular conception of a musical instrument. The pitch, dynamic, and articulation of a note became independent of the instrumental timbre in which the note was performed. Thus one could physically play the same instrument, realized in a million different instrumental sounds or timbres. 
+In this sense, timbre is what defines the instrument, rather than the interface. This affords composers the possibility of designing their own timbre for an instrumental part in a composition. Messiaen leveraged this ability to compose an instrument-sound, performed on the Ondes, in some of his later pieces. “For Saint Francois, I invented a timbre I named the ‘Poitou oboe timbre’ because its extraordinary cavernous sound brings to mind the medieval oboe of the French Poitou region.”[21] This is one of the earliest examples of the “glove phenomena” as I call it, in which an instrumental part is performed in a specified, invented timbre. Despite the novelty of this facet of Martenot’s invention, most composers in the 1930’s were generally satisfied with the seven default timbres, and refrained from having the performer recreate a specifically tailored sound on the instrument.
+The instrument was used sporadically in the first half of the 1930’s, and received its first showcase at the 1937 Paris World Fair, “a festival of water, light, and sound”.  The Ondes was arguably the craze of the festival,[22] and was prominently advertised as the “technological sensation of the musical section.”[23] Several composers used the Ondes in conjunction with standard orchestral instruments. These included Arthur Honegger in Les mille et une nuits (1937), Pierre Vellone in Fête fantastique (1937), as well as Schmitt, Milhaud, Canteloube, Delannoy, and Loucheur. Ginette Martenot, sister of Maurice, also conducted her arrangement of Debussy’s Nocturnes (1899) for an octet of Ondes and two pianos. 
+ Composers were aware that the performances were to be broadcast from speakers in various locations around the river Seine, synchronized with water jets and a light show on the river: “Since the music was, in any case, to be amplified by loudspeakers placed on all the buildings lining the Seine, the Onde Martenot seemed a marvellously apt choice for these outdoor performances,”[24] says Messiaen. Fête des belles eaux (1937), Messiaen’s work commissioned for this concert, was the only piece written exclusively for an ensemble of six Ondes Martenots. In the words of John Schaeffer,[25] this was the “first time a composer of this stature had devoted a whole piece to electronically produced sounds, as opposed to incorporating it into an orchestral palette, which is what the inventor Maurice Martenot had intended.” Given that Messiaen was a gifted organist, and that organs are the only acoustic instrument in which one often explicitly adjusts the balance of harmonic partials, his keen interest in the Ondes may have partially stemmed from his instrumental background.
+Messiaen stated that the form of Fete des belles eaux was dictated by timings provided to him by architects in charge of the visual show incorporating fireworks and water jets. The work, in the vein of a film score, is thus structured around animating these visual events with music: “The music reflects the mystery of the night, the funereal aspect of the deep water, and the joyous, playful, carefree character of the fireworks. The jets of water, by contrast, seemed to me to be either fierce and terrible, or dream-like and contemplative. It is this last mood that predominates, and in the most worthwhile moments of Fete des belles eaux when, on two occasions, the jets of water shoot up to a great height, a long, slow phrase is heard - almost a prayer - which makes the water a symbol of Grace and Eternity, as in the words from the Gospel according to Saint John: ‘Anyone who drinks the water that I shall give will never be thirsty again; the water that I shall give will turn into a spring inside him, welling up to eternal life [John 4:14].”[26] This description informs our understanding of the symbolic meaning water held for Messiaen as ‘Grace and Eternity’, and the intentional synchronization between the main theme of L’eau (water) and the highest points of the water jets. It also provides insight into the playful character of the other movements, intended to complement fireworks and various elements of the light show. 
+Despite the intriguing instrumentation and premise, Fête des belles eaux is, for the most part, a youthful, somewhat frivolous composition, in part due to time constraints imposed on the piece and the composer. It is by the composer’s admission not his best work: “Musically... this [is a] rushed and careless work…” But he believed the piece had one redeeming part, the fourth movement titled “L’eau”:  “...there is just one valuable page - that I love (and that I’ve always loved): because for me it represents a departure from the dimension of time, a humble attempt at true Eternity.”[27] Although the sixth movement of Fete des belles eaux, titled “L’eau (à son maximum de hauteur)” almost exactly restates the fourth movement (“L’eau”) transposed up a perfect fifth, its pervasive ornamentation and high-register figurations, reminiscent of the playful, fireworks-inspired movements, detracts from the deep, meditative mood of the piece. I believe this is why Messiaen stated “there is just one valuable page” (the first “L’eau”), and is the reason the fourth movement exclusively became Oraison. The composer also recycled this specific L’eau movement verbatim in the fifth movement “Louange à l'Éternité de Jésus” (Praise to the Eternity of Jesus) of his Quartor por la fin du temps (1942), with the famous tempo marking of ‘Infinitamente Lente’ - Infinitely Slow. It is interesting to note that the instruments used in the Quartet reorchestration of this piece, the Cello and Piano, are the same two instruments that inspired the Ondes.
+After extensive research, it remains unclear to me who named this composition Oraison. Its first performance as an independent work titled “Oraison: Ondes et orchestre” took place during a ‘Concert spirituel’ in 1940, while Messiaen was captive in the Gorlitz prisoner-of-war camp. Since there is no evidence that the composer himself titled the piece “Oraison” (Prayer), I argue that the work, possibly titled by either the conductor Hubert d’Auriol or the unnamed programmer of the concert, was performed as a prayer to Messien, who at the time was imprisoned in a Nazi camp; and that the title also stems from Messiaen’s description of the “L’eau” movement as “almost a prayer.” 
+        Considering the importance of the concept of eternity to Oraison (“it represents a departure from the dimension of time, a humble attempt at true Eternity.”[28]) it is important to discuss certain philosophical ideas from Messiaen’s Treatise on Rhythm, Ornithology, and Colour.[29] The composer opens the Treatise (Volume 1. Rhythm; Chapter 1. Time and Eternity)  with a quote from St. Thomas Aquinas (1225-1274): “Eternity is an all-encompassing simultaneity, and in time there is a before and after.” He then elaborates that time has a beginning and end, and thus moves in a definite direction (the arrow of time); and as being continuous, which implies perpetual movement and immutability. Eternity, on the other hand, has no beginning or end - it is an indivisible, constant, all-encompassing simultaneity. 
+Evidently, this music had tremendous significance to Messiaen, but manifesting the idea of eternity in a musical work seems somewhat paradoxical, since it necessarily has a beginning and end, and unfolds over time. This is the main premise of my score analysis - attempting to understand Messiaen’s attempt at musically representing eternity. Or as Griffith states, how Messiaen goes about “Inviting the listener to the paradoxical pleasure of observing eternity as it happens.”[30]
+Oraison
+
+
+The piece follows no regularly repeating meter, and is marked as “Extremamente Lente, 1/16 note = 46,” an incredibly slow pulse. From the start, the listener’s sense of musical time is suspended, and there is little propelling the piece toward a sense of urgency. Without looking at the score, a listener would be hard pressed to keep count of the tempo and note values. The opening melody, however, contains primarily eighth notes, so we are given some initial indication of the pulse. If the listener assumed that the eighth notes held the pulse, the tempo perceived would be 23 BPM (2.6s gap between each pulse) - really pushing the boundary of a perceptible, countable pulse.
+In the Treatise,[31] Messiaen explains an idea about Einsteinian Relativity in the context of musical events that provides insight into his rhythmic construction:
+  
+
+This keen observation is important to understanding this composition. Here Messiaen considers the Relativistic principle of judging a note with respect to the duration of the preceding note, and how our perception of the second note is inherently primed by the first. In essence, he states that if a shorter note moves to a longer note, the listener has a frame of reference to appreciate how long the second note is. Conversely, if a long note is followed by a much shorter note, the listener is less likely to accurately perceive the duration of the first note since there is a vague frame of reference reference going into the second note. 
+More generally, a broad, sparse phrase is more impactful when preceded by a shorter, denser phrase, and vice-versa. Both are equally important, due to the relativity with which a listener perceives durations. This idea of alternating between short and long phrases appears throughout the piece, to strengthen the feeling of elongation and vastness in key moments. Further, the piece follows ternary form, with a relatively dense ‘b’ section sandwiched between two broad ‘a’ sections. For this reason, my analysis follows the interconnected sequence of events linearly, to appreciate how Messiaen attempts to eliminate sequential time as the piece unfolds. 
+In Oraison, Messiaen approaches the broad, cadential C motive by ending motive B with a 1/16 note (refer to score diagram below). The C motive is a quarter note followed by a half note, which exactly agrees with his explanation of the former (prospective) case. Further, the accompaniment comes in ⅛ note late, so the final half note in the melody has a strongly implied frame of reference. Thus even if the listener ‘exerts the least effort’, they should accurately hear the expanded proportions. 
+Similarly, the opening melody (A motive) contains an eighth note, then two 1/16 notes, followed by several eighth notes. This could be intended to aid the listener in contextually finding the perceived pulse (⅛ note = 23) by briefly demarcating the subdivisions to provide the listener a frame of reference. This melody seems to exemplify Messiaen’s understanding of psychological perception of musical time, in its ability to both suggest an extremely slow pulse and to maximize the listeners ability to accurately perceive the durational proportions for both short and long notes.
+  
+
+Diagram 2: Opening melody; Motive definition
+
+
+Motion by a minor third is an integral principle of this piece in terms of both harmony and melody. The first three intervals are falling/rising minor thirds, and the only other interval present in the entire melody is the half-step. 
+  
+
+Diagram 3: Opening Melody, m. 1-2
+
+
+Similarly, the harmony in the first phrase moves only by tritone (two minor thirds) or a minor third.[32] This implies that the harmony is within the Octatonic field (or Mode 2 of Messiaen’s Modes of Limited Transposition) The harmonic rhythm is far slower than the melody, moving between major chords on roughly every half note, which in this slow pulse feels fairly prolonged. All chords are in open voicing, in that the intervals between each note of each sonority are either the Perfect 5th or major/minor 6th. The opening phrase of the piece is a clear example of Griffith’s observation: “Messiaen is in line with predecessors, associating the infinite with music of high pitch, clear scoring, bright harmony and long duration.”[33]
+  
+
+Diagram 4: Opening phrase harmonization
+
+
+It is interesting to note that in the first cadence to the E major tonic (end of m. 2), the melody descends a minor third from the tonic (E-C#), arriving at a Debussy-inspired added Major 6th chord. Messiaen cites Debussy as one of his most valued predecessors, and dedicated an entire chapter to Debussy in his ‘Techniques of My Musical Language,’[34] as well as an entire volume in his Treatise. This cadence is a core sonority of the piece, and appears at several structurally important moments. 
+The first section follows a unique antecedent-consequent phrase structure. The dense antecedent phrase (short) contains mostly 1/8 and 1/16 notes until the expanded quarter and half notes of the cadence. The broader consequent phrase (long) begins with two 1/8 notes and one 1/16 note, possibly used to refresh the listeners markers of time in anticipation of a double-statement of the expanded C motive. Thus each phrase begins relatively fast, and broadens during the cadence; while the antecedent also serves as the dense ‘short’ phrase compared to the relatively vast ‘long’ consequent phrase, even though both phrases last the same length, 29 x 1/16 notes. The entire section, of both antecedent-consequent pairs, lasts 29 beats.[35]
+  
+  
+
+Diagram 5: Section 1 phrase structure
+During the restatement of the antecedent-consequent pair, Messiaen exactly restates the antecedent phrase, and reharmonizes the consequent phrase. The use of a diatonic minor ii harmony, F#minor in place of the former tritone-related Bb major, audibly shifts the harmonic field from a minor third-based Octatonic/Mode 2 field, to the diatonic field of E minor. The primary difference is the use of F-natural (flat 2) and Bb (flat 5) in the first statement; compared to F# and B-natural (diatonic) in the restatement (with the exception of m. 11 with F-natural). This modal and harmonic flexibility is an extension of that of Debussy and Dukas, his predecessor and teacher respectively. Although the reharmonization omits harmonic motion by minor thirds in favour of diatonic sonorities, the minor third is still present in the motion of the bass and tenor voices, which ascend by the interval for each harmony change, until a cadence to the dominant to conclude the first section.
+The second section opens with a shift the subdominant harmony, and a transposition of the A motive in the melody. This is a major point of arrival, underscored by the first forte marking in the melody, the accompaniment placed on the downbeat, and the tritone relation between harmony (A major) and melody (D#). This phrase sandwiches the B motive between the start and end of the A motive, a permutation of the main theme. The following bars create a ‘long-short’ sequence, with each phrase in sequence one lasting 15 x 1/16 notes each while the corresponding phrases in sequence two are contracted and last for 9 x 1/16 notes each. These sequences are animated by transposing the melody down a minor third for each statement. 
+  
+
+Diagram 6: Section 2 sequences
+
+
+As opposed to the ‘abab’ structure (two antecedent consequent pairs) of the first section, the second section follows an ‘aa/bb’ structure (two pairs of adjacent rhythmically-identical phrases). Although this form looks fairly straightforward on paper, in practice it is difficult to perceive due to the irregular phrase lengths, slowness, and resulting large spacing between musical events. Since there is no hypermeter, listeners cannot predict the divisions between sections and anticipate moments of return. 
+After the second sequence, the piece proceeds to what I have called the ‘Rise’ gesture.
+  
+
+Diagram 7: Rise gesture 1
+
+
+This motive occurs in various guises thrice in the piece. In my opinion, Messiaen uses it to create a feeling of ascension, using parallel harmonic motion, while creating the illusion of time temporarily moving faster. As Griffiths states, “Messiaen bases his solution [to controlling the perceived speed of a phrase] on a long-established connection in Western music between speed and harmonic complexity.”[36] Thus far in the piece, the harmonic rhythm has been slow with mostly one, occasionally two, sonority per bar. In the Rise gesture, the harmonic rhythm increases to a ¼ note, then further accelerates to ⅛ note before expanding at the longer dotted-half-note cadence. 
+Following the broad end of the rise gesture, the second section returns to another relatively busy sequence, with a phrase composed of two non-retrogradable rhythms. Although they only make a brief appearance in the piece, non-retrogradable rhythms are, in my opinion, the epitome of Messiaen’s notion of temporal symmetry and a “calculated ascendency in time and sound.”[37] In a conversation with Claude Samuel pertaining to his notion of the ‘Charm of Impossibilities,’ Messiaen expresses that “a technical process would possess much more power - and a quasi-occult power - the more it came up, in its very essence, against an insuperable obstacle.”[38] And what better insurmountable obstacle than the arrow of time? That time only moves in the ‘forward’ direction is a fundamental physical law of the universe. The law of entropy is based on this assumption - that is, that a system cannot reduce its level of disorder (for instance, a broken glass cannot fix itself), thus entropy can never decrease. 
+This implies that just as an object hotter than its surroundings cannot spontaneously get warmer, so too can no physical process be completely reversible. From a Physicist's standpoint, Messiaen’s non-retrogradable rhythms would be called ‘reversible rhythms’, since they do not vary with the direction of time (analogous to the theoretical ‘Carnot Engine’ that operates at 100% efficiency without losing any energy, and is thus a reversible process). In this perspective, a rhythm, or sound, invariant to the direction of time, possess an audibly “quasi-occult” quality. But just as time moves in a definite direction, so the listener is never presented with the opportunity of hearing the phrase backwards in the context of the composition. I have little doubt that Messiaen was aware of this, and believe that his emphasis on non-retrogradable rhythms represents his larger struggle of wanting his music to depart from time, while knowing that he and his compositions were necessarily bound by it. 
+  
+
+Diagram 8: Non-Retrogradable phrase, consisting of 2 separate rhythmic motives
+
+
+Coming from the relatively dense phrases discussed above, the second section concludes with a two-part ‘Rise’ gesture. 
+  
+
+Diagram 9: Rise motives before Return
+
+
+The first rise (long) substantially slows down melodic pace, while increasing the harmonic rhythm to a ¼ note. This phrase recalls Dukas’ instruction to his students to “Rhythmicize your harmonies!”[39] The accompaniment ascends in parallel motion, alternating between all triadic chord types (minor, major, augmented, major, diminished; 3-note cluster) in first inversion, while the melody ascends by minor 3rd. The harmony in this gesture is far from tonal-functional, but uses the same triadic chord types, enriched by a foreign note in the melody. All parts slowly crescendo to f during the rise, but the accompaniment ends with a sudden shift to p when the phrase expands at the end of rise 1. This sets up the same sudden dynamic shift that marks the crucial moment of return, and the start of the third section, two bars later.
+Following the static moment between the rises, the second rise increases the melodic and harmonic speeds, reverting back to the rhythm from the second non-retrogradable phrase in section two. The harmony changes, alternating between 2nd-based sonorities and minor triads, exactly follow the melodic motion, moving every 1/8  or 1/16 note. This represents the fastest, densest, ‘shortest’ section in the piece, setting up a huge contrast for the return of the main theme, which in the 1937 Paris World Fair would have been synchronized with the first climax of the water jets. 
+The restatement of the opening melody is transposed to start on the tonic E and jumps a minor third to and from C#, reminiscent of the first section’s cadential C motive. The accompaniment falls directly on the downbeat, as in the opening of the second section, with a dominant pedal. After the crescendo to f building up to the return, the dynamic marking drops to pp in the melody, and ppp in the accompaniment, as in the first rise. This marks a subdued, full-circle arrival to a fuller restatement of the opening motive, incorporating gestures from the preceding sections of the piece and underscored by the return to bright Mode 2 harmony (minor 3rd related; E major, G major, Bb major). 
+  
+
+Diagram 10: Return to main theme with on-beat accompaniment and tonic in melody
+
+
+The third section then returns to a modified version of the consequent phrase from the first section, oscillating between a transformed version of the B with the original C motive. Following the third C motive cadence to the tonic, the penultimate bar of the piece contains a final rise that ascends exclusively by minor thirds in the melody, while the duration of each harmony (with the exception of the first dotted quarter note) is augmented by an eighth note. Each subsequent duration gets longer and longer, until the last cadence. 
+The final bar is an E major chord in open voicing approached from C#, an inversion of the primary C motive cadence.[40] This chord is held for 6 quarter notes, gradually dissolving the unbroken, completely continuous melody line from the start of the piece.  
+After the final chord, Messiaen enigmatically notates a quarter rest with a fermata to end the piece. I think that Messiaen may have included this to both indicate to the performers that they should prolong the period of silence to the extent possible, as well as to metaphorically express that the piece is not meant to have a definite end. The intentionality of the detailed scoring seems to strongly suggest  to the performer a feeling of prolongation and a lack of a perceptible ending. Ideally, it should to fade out into an infinity of time. 
+  
+
+Diagram 11: Last two bars of piece
+
+
+The features discussed in my score analysis are underscored and accentuated by the orchestration of this piece, demonstrated through comparison with the “Louange à l'Éternité de Jésus” movement of Quatuor pour la fin du temps, arranged for cello and piano.
+As an electronic instrument, the Ondes boasts the ability to potentially sustain a sound indefinitely, so long as it has an energy source. For sustained acoustic instruments, breathlessness, a bow change, or fatigue would eventually cause the performer to disrupt or end the note. A note played on the Ondes, by contrast, is imbued with this potential to sustain long durations without disruption or loss of tone quality.[41] This is integral to Oraison, in which both the melody and accompaniment sustain exceptionally long notes throughout the piece. 
+In the Quartet version, the melody line is performed on a cello and thus has little problem sustaining long notes. On the other hand, the accompaniment on the piano decays quickly, so Messiaen rearticulates the harmony every 1/16th note:
+  
+
+Diagram 12: Opening of 5th movement, Quartor pour fin du temps
+
+
+Compared to the corresponding music in Oraison:
+  
+
+Diagram 12: Opening of Oraison
+
+
+There is a tradeoff between producing acoustically resonating notes from a known instrument, the piano, and the ability to indefinitely sustain a note using electronic means. In an effort to musically simulate a vast, static, untouched moment through a “departure from the dimension of time”, the latter might be considered a more effective representation due to the absence of consistent demarcations of musical time. 
+Compare the final bars of the two versions of the piece:
+  
+            
+Diagram 13: Final bars of  “Louange à l'Éternité de Jésus” and Oraison
+
+
+The ‘fade-out’ in the Quartet version is achieved by the piano re-articulating the E major chord at increasing levels of p  to pppp, while in Oraison, the Ondes are marked as ppp, and fade out during the 6 quarter-note duration until the fermata rest at the end of the piece. While the piano cannot change dynamics in the middle of a sustained note, an Ondist would be able to precisely control the dynamic throughout the note by slowly reducing pressure by the left-hand. This level of precision over dynamic control achievable with the mechanical instrument provides an effective way of blurring the end of the composition. 
+The Quartet version, however, was composed in a remarkably different setting; that is, while Messiaen was captive in a German prisoner-of-war camp, where he felt an overarching sense of mortality and looming finiteness. While the Quartet’s instrumentation was dictated by his circumstances, Messiaen denies that the theme of the piece relates to his captivity, but rather an image from the Book of Revelations: “...the mighty angel raised his right hand toward Heaven and swore by He who lives forever and ever...saying: ‘There will be no more Time’ [Revelation 10:6].” This passage is cited in the preface as the inspiration for the aptly titled ‘Quartet for the End of Time.’ As Rebecca Rischin states, “The dual meaning of the title, as the composer explained, rests not with the notion of the interminability of captivity, but with the composer’s desire to eliminate conventional notions of musical time and of ‘past and future’.”[42] 
+While Oraison was one of the composer’s early attempts at extinguishing sequential time in his music, the Quartet represents a far more experienced, religious, and distinctly human (due to the unconventional, acoustic instrumentation) effort to musically venture towards eternity. Messiaen was a devout Catholic, and his faith is the driving force of the Quartet, apparent from the suggestive titles of each of the eight movements. Musically, his developed use of palindromic rhythms, added or subtracted values to disturb the sense of regular meter, repeating musical processes (through superimposition of different-length ostinati), and significantly quoting birdsong “which seems to exist in its own realm without need of cause or effect,”[43] allows him to deliver on the title and effectively suspend, or distort at the least, the listener’s sense of time.[44] The Quartet is often described as transfixing, and remains one of the most unique, recognized, and admired compositions of the 20th century. It is hard to imagine that it was composed less than five years after Fete des belles eaux.
+The emotional heart of the work comes from the two duet movements for cello and violin with piano accompaniment, the fifth and eighth (final) movements respectively. Just as Oraison was rearranged as the fifth movement “Louange à l'Éternité de Jésus,” so too was the last movement “Louange à l'immortalité de Jésus” adapted from Diptyque (1930), for solo organ. It seems no coincidence that these two vital movements came from previous compositions for keyboard instruments that could indefinitely sustain notes, and that both are expansive, E major melodies that unfold over an exceptionally slow pulse. Perhaps looking towards the past at triadic harmony and his previous compositions was a way of departing from his circumstances and position in time. Further, I believe that these movements reflect Messiaen embodying the theme of the Quartet in his compositional process, drawing on the one-time invariant aspect of a human — memory of the past. 
+Given Messiaen’s deep scientific, philosophical, musical, and theological interest in time, it is likely the consistency of sound produced by a machine would have been of great significance to him. The mechanistically unwavering quality of the Ondes and its ability to perpetually sustain notes stem from the fact that the vibrations produced by oscillators do not vary over time. In the 1937 model, vibrato was achieved through dynamic fluctuation, using the left hand. But this alters only the amplitude (volume) of the signal, and not the frequencies that create pitch and timbre.[45] It follows that each moment of the note is identical to every other moment of the note; in other words, the sound signal is non-immutable, or infinitely constant. 
+This aspect of electronically generated sound is what allows a listener to immediately identify whether a sound is acoustically natural or mechanically synthesized. Acoustic instruments exhibit tiny fluctuations in the strength (volume) of the fundamental pitch and its corresponding harmonic partials that cause the listener to perceive a sound as acoustic.[46] This stems from miniscule fluctuations in pressure and contact area introduced by the performer. In contrast to the Ondes' monotonous oscillator-based sound, acoustic sound varies with time as each instant of a note is slightly distinct from any other instant. 
+During the early years of electronic instruments in the 1930’s, an invented timbre performed on the Ondes Martenot undoubtedly evoked a notion of sonic ethereality.[47] After Martenot’s 1930 international tour, the New York Herald said that “had he lived in the Middle Ages, Martenot would have been accused of witchcraft and burned alive in the town square,”[48] while the Viennese newspaper “Der Abend”[49] enthused that in terms of audience reception: “It is ethereal, supernatural, inexplicable...wonder triumphed over scepticism.” The novel timbre and unwavering tone quality, stemming from the fact that the instrument is a machine that converts energy into a monotonous sound, does create a feeling of otherworldliness, or more simply, a distinctly non-human sound. 
+Messiaen also incorporated the Ondes into some of his later works, most prominently his Turangalila symphony, scored for a large and diverse orchestra with Ondes and Piano soloists. As one of Messiaen’s most well-known works, it showcased the Ondes and provided the instrument unprecedented exposure. In 1983, Messiaen’s  orchestrated his opera Saint François d'Assise for a huge 110 member orchestra including three Ondes, after a 30-year break with the instrument. The sound produced by the Ondes is perceptibly distinct from the orchestral instruments, and makes for an effective representation of a non-earthly voice, which Messiaen leveraged to represent the voice of an Angel in a crucial scene of the fifth tableau. It seems likely that Messiaen may have been intrigued musically and conceptually by the Martenot — “...the powerful and ethereal Ondes Martenot (the instrument of the future!)”[50] — and that his representation of eternity in Oraison was assisted by the sound and implications of the instrument. 
+
+
+Concluding Remarks
+
+
+The serendipitous appearance of the Ondes in the 1930’s, while Messiaen was beginning to develop his compositional voice and his understanding of time against the background of his Catholic faith, his grappling with questions of eternity, and his understanding of the capabilities of the organ, provided him with an intriguing outlet for his creative musings. He played a crucial role in the instrument's history, having incorporated it in major works throughout his compositional career that provided it widespread exposure. Messiaen’s Fete des belles eaux, the first piece composed exclusively for an ensemble of Ondes, moreover, was for the most part a self-declared frivolous experiment with the new instrument, apart from one exceptional movement. The “L’eau” movement, both musically and symbolically, held deep theological significance to Messiaen, and Oraison remains one of the most recognized compositions for the Ondes. The composer expressed that, to him, the music represented an attempt at a departure from time, for which an ensemble of Ondes' was an apt orchestrational choice.
+Despite Messiaen’s interest in the Ondes, the instrument experienced relatively little use and recognition in 20th-century music. Martenot, in fact, was forced to shut down production in 1988 due to the instrument’s lack of commercial viability. While several conservatories in France today still offer Ondes instruction, Messiaen’s prediction (“the instrument of the future!”) did not come to pass. 
+First, the Ondes' most novel and exciting feature — its ability to concoct timbres at will — turned out to be a significant limitation. Its lack of a defined timbre hindered its ability to find a distinct identity among musical instruments. Since timbre has traditionally been recursively defined by name and form - for instance, a ‘violin timbre’ created by an instrument with the shape and construction of a violin - defining and describing an abstract, invented timbre is a difficult task. Such timbres lack “Nama-rupa” (Name and Form), a term from Hindu theology that describes what defines identity within one lifetime, with respect to a constant atman (a being’s core essence) that remains throughout the cycle of reincarnation. This amorphicity causes synthesized timbres to elude standard definition, since they cannot be associated with a specific instrument.[51] 
+While a synthesized timbre could be ‘discovered’ or ‘invented’ by providing it with a name, description, and ‘recipe,’ if it were not charted and given an identity, it would remain a part of the ‘potential infinity of timbres’ rather than a referable, useable instrument sound. Messiaen was one of the first composers to invent a timbre and provide it with an identity through a name, description, and comparison to pre-existing instruments: “For Saint Francois, I invented a timbre I named the ‘Poitou oboe timbre’ because its extraordinary cavernous sound brings to mind the medieval oboe of the French Poitou region.” In the score he also explained how a performer would create this timbre on the Ondes. Maurice Martenot did not create a means for composers and performers to catalog and share timbre settings, which ultimately stifled the endeavour of electronic timbre exploration. 
+Second, the Ondes, and the medium of electronic music more broadly, is completely dependent on a speaker, which is inherently a passive element of musical performance.[52] Maurice Martenot developed various types of innovative attachments to make the presence of a speaker on stage more engaging. He attached lyre strings to the speakers to produce natural sympathetic vibrations, and even a gong in order to create a metallic ‘halo effect.’ Although both speaker attachments added an element of natural resonance to the performance, they primarily embellished the timbre of the instrument, and failed to make the speaker more engaging. Apart from placing speakers in different locations in the performance hall,[53] not much could be done regarding making the presence of a speaker more active and engaging.
+Finally, the invention of the computer during WW2, inspired by technological advancements during the war to decrypt German communication, supplanted the Ondes central role in electronic music. With recording practices well-established by the 1940’s, the computer offered a suitable home for digital audio, which ranged from recorded real-world sounds to completely synthesized tones. Computer music (the subset of electronic music created using a computer) offered yet another musical path with an even wider range of sonic possibilities. The computer, however, was not designed to be a live performed musical instrument, and came with the tradeoff of rejecting the performance element of music in favour of ‘playing’, or listening to a prepared recording of the music. The myriad novel musical tools and opportunities the computer provided somewhat eclipsed the young Ondes Martenot, which had been in existence for just over 10 years when the computer emerged. Over the second half of the century, as computers became more efficient, while their size and production cost reduced, it usurped most pre-existing electronic musical instruments. Today, in countries apart from France and Canada where the instrument is taught and performed in limited capacity, the Ondes is for the most part antiquated. 
+And yet, in an interesting twist of fate, the idea has managed to live on nonetheless. In 2009, the London-based music technology company ‘Roli’ released an instrument called the ‘Roli Seaboard’, a modern reimagination of the Ondes. Instead of having the left hand separately control the ‘bow’, the keyboard itself is layered with a pressure-sensitive pad that continuously senses the performers articulation and dynamics, while further allowing glissandi on a ‘pitch ribbon’ just as one would on the Ondes. This unified instrumental interface marked the invention of a digital (computer assisted) electronic instrument capable of ‘Multidimensional Polyphonic Expression,’ which essentially means the ability to fluidly control multiple parameters (vibrato, dynamic, intonation, articulation, etc.) of each note. The instrument’s sound is assigned using a virtual synthesizer that allows performers to create, save, and share timbre settings. Having consolidated the disjointed interface of the Ondes, the Roli Seaboard series is galvanizing contemporary electronic music-making in a variety of genres. And although the instrument tenuously perseveres, the Ondes embodies Martenot’s pioneering concept of synergizing science and music to create ‘electronic music’, which has inspired countless inventors and musicians in the past century.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+
+
+Almut Rössler, Contributions to the spiritual world of Olivier Messiaen: With original texts by the composer (Duisburg, West Germany : Gilles & Francke, 1986)
+
+
+Claude Samuel and Olivier Messiaen, Olivier Messiaen: Music and Color: Conversations with Claude Samuel (Minnesota: Hal Leonard Publishing Corporation, 2003)
+
+
+Curtis Roads, Composing Electronic Music: A New Aesthetic (Oxford University Press; 1 edition, 2015)
+
+
+Curtis Roads, “Early Electronic Music Instruments: Time-Line 1899-1950”. (Computer Music Journal, Vol. 20, No. 3. The MIT Press, 1996)
+
+
+Daniel Albright, Modernism and Music: An Anthology of Sources (Chicago: University of Chicago Press, 2004)
+
+
+David Madden, “Advocating Sonic Restoration: Les Ondes Martenot in Practice”. (Wi: Journal of Mobile Culture, 2013)
+
+
+Douglas Martin, "Jeanne Loriod, Who Transformed Electronic Wails Into Heartfelt Music, Dies at 73", (New York Times, 19 August 2001)
+
+
+Istvan Lang, "The Effect of the Recording Process on European Classical Music." (The World of Music 27, no. 3, 1985)
+
+
+Jean Laurendeau, Maurice Martenot, luthier de l'électronique (Louise Courteau/Dervy, Montréal/Croissy-Beaubourg, 1990)
+
+
+Jean-Michel Nectoux,  Roger Nichols, Patrick Govers, Gary W. Hopkins, and Paul Griffiths, The New Grove twentieth-century French masters: Fauré, Debussy, Satie, Ravel, Poulenc, Messiaen, Boulez (New York: W. W. Norton, 1986)
+
+
+Leslie A. Sprout,  Musical Legacy of Wartime France (California: University of California Press, 2013)
+
+
+Nigel Simeone, "Messiaen in the 1930s." (The Musical Times 141, no. 1873, 2000)
+
+
+Nigel Simeone and Christopher Dingle, Olivier Messiaen: Music, Art, and Literature (Farnham: Ashgate, 2007)
+
+
+Olivier Messiaen and Stephen Broad, Olivier Messiaen: Journalism 1935-1939 (Burlington, VT: Ashgate, 2012)
+
+
+Olivier Messiaen, Traité De Rythme, De Couleur, Et D'ornithologie (Paris: Alphonse Leduc, 1994)
+
+
+Olivier Messiaen, The technique of my musical language (Paris: Alphonse Leduc, 1944)
+
+
+Paul Griffiths, Olivier Messiaen and the Music of Time (London: Faber and Faber, 2009)
+
+
+Sibyl Marcuse, Ondes Martenot, Musical Instruments: A Comprehensive Dictionary (New York: W. W. Norton 7 Company, Inc., 1975)
+
+
+Ton De Leeuw and Rokus De Groot, Timbre In Music of the Twentieth Century: A Study of Its Elements and Structure (Amsterdam University Press, 2005)
+
+
+Tristan Jehan, Perceptual Synthesis Engine: An Audio-Driven Timbre Generator (Thesis for Master of Science in Media Arts and Sciences at the Massachusetts Institute of Technology, 2001)
+
+
+Vincent P. Benítez, Olivier Messiaen: a research and information guide (London; New York, NY: Routledge, 2014)
+
+
+
+
+
+
+________________
+[1] This specific excerpt of Fete des belles eaux was first performed by the Orchestre Symphonique Francais, conducted by Hubert d’Auriol, in a ‘Concert spirituel’ which took place on
+Sunday 22 December 1940, at the Eglise des Dominicains.  The program listed the piece as
+“Oraison: Ondes et orchestre”, an arrangement of the first L’eau movement from Fete des belles eaux for solo Ondes (performed by Ginette Martenot) and orchestra. 
+Source: L’Information musicale (20 December 1940): 137
+
+
+
+
+[2]Paul Griffiths, Olivier Messiaen and the Music of Time. (London: Faber and Faber, 2009): 104
+[3]  Claude Samuel; Olivier Messiaen, Olivier Messiaen: Music and Color: Conversations with Claude Samuel. (Hal Leonard Publishing Corporation, 2003): 76
+[4]Jann Pasler. "Impressionism." Grove Music Online. Oxford Music Online. Oxford University Press
+[5]Arnold Whittall. "Neo-classicism." Grove Music Online. Oxford Music Online. Oxford University Press
+[6] It was later discovered that many of these themes were not by Pergolesi, though they were by contemporaries.
+[7] Copland, Aaron. “The New Music 1900–1960”, revised and enlarged edition. New York: W. W. Norton & Company, Inc. (1968): 72
+[8] Hargrove, Nancy . “The Great Parade: Cocteau, Picasso, Satie, Massine, Diaghilev—and T.S. Eliot". Journal for the Interdisciplinary Study of Literature. (1998): 31 
+[9]  Roger Nichols, The New Grove twentieth-century French masters: Fauré, Debussy, Satie, Ravel, Poulenc, Messiaen, Boulez - Chapter 5: Poulenc. (New York: W. W. Norton, 1986): 201-204
+[10] “Theremin is a physician-musician while Martenot is a musician-physician” - Deutsche Allgemeine Zeitung (date of publication and author not known)
+Retrieved from: Thomas Bloch, “Music for Ondes Martenot - About this Recording” (Naxos, 2004)
+[11]Albert Glinsky, Theremin: Ether Music and Espionage. (Urbana, Illinois: University of Illinois Press, 2000): 26.
+[12] Bruce Swedien, Make Mine Music, (Minnesota: Hal Leonard, 2009): 52
+Unable to locate original patent filing 
+[13] Curtis Roads, Early Electronic Music Instruments: Time-Line 1899-1950. (Computer Music Journal, Vol. 20, No. 3. The MIT Press,1996): 20-23
+[14] “Theremin is a physician-musician while Martenot is a musicianphysician”; Allgemeine Zeitung, 1929. 
+Retrieved from: Thomas Bloch. “Music for Ondes Martenot - About this Recording” (Naxos, 2004)
+[15] Sibyl Marcuse, Musical Instruments: A Comprehensive Dictionary - Ondes Martenot (New York: W. W. Norton 7 Company, Inc. corrected edition, 1975): 377.
+[16]  Claude Samuel; Messiaen, Olivier, Olivier Messiaen: Music and Color: Conversations with Claude Samuel. (Amadeus Press, 1986): 59
+[17] Another notable Ondes work by Honegger is his Joan of Arc at the Stake (1938).
+[18] Claude Samuel; Olivier Messiaen, Olivier Messiaen: Music and Color: Conversations with Claude Samuel. (Portland: Amadeus Press, 1986): 57
+[19] Sibyl Marcuse, Musical Instruments: A Comprehensive Dictionary - Ondes Martenot (New York: W. W. Norton 7 Company, Inc, 1975): 377
+[20]Claude Samuel; Olivier Messiaen, Olivier Messiaen: Music and Color: Conversations with Claude Samuel. (Portland: Amadeus Press, 1986): 58
+[21] Ibid. 58
+[22] Nigel Simeone, “Music at the 1937 Paris Exposition - The Science of Enchantment”. The Musical Times, Vol. 143, No. 1878. (2002): 7
+[23] Advertisements in the Guide du Concert exposition number describe the Ondes Martenot as ‘Une nouvelle source de joies artistiques infinies’ [A novel source of infinite artistic joys] (p.xviii) and ‘La plus sensationnelle réalisation musicale et scientifique de l’exposition 1937’ on the back cover. [most sensational musical and scientific achievement of the 1937 fair]
+[24]Olivier Messiaen, Program notes for REM 311306 
+Retrieved from: Nigel Simeone, “Music at the 1937 Paris Exposition - The Science of Enchantment”. (The Musical Times, Vol. 143, No. 1878, 2002): 14
+[25] John Schaeffer, host of New Sounds on WNYC-FM, New York. From booklet attached to “OHM+: the early gurus of electronic music”.
+[26]Olivier Messiaen, Program notes for REM 311306  
+Retrieved from: Nigel Simeone, “Music at the 1937 Paris Exposition - The Science of Enchantment”. (The Musical Times, Vol. 143, No. 1878, 2002): 14
+[27] Jacques Tchamkerten. “From Fete des Belles Eaux to Saint Francois d’Assise: The Evolution of the Writing for Ondes Martinet in the Music of Olivier Messiaen” in Christopher Dingle; Nigel Simeone, Olivier Messiaen: Music, Art, and Literature (Aldershot: Ashgate, 2007): 66
+[28] Ibid. 28
+[29] Olivier Messiaen, Traité De Rythme, De Couleur, Et D'ornithologie. (Alphonse Leduc, United Music Publishers, 2004): 11
+[30] Paul Griffiths, Olivier Messiaen and the Music of Time. (London: Faber and Faber, 2009): 104
+[31] Olivier Messiaen, Traité De Rythme, De Couleur, Et D'ornithologie. (Alphonse Leduc, United Music Publishers, 2004): 32
+[32] Symmetry is an important consideration in Messiaen’s music, which he strives to achieve in both the frequency and time domains. Given that the 12-note chromatic scale is symmetric at the tritone (the backbone of most of his ‘Modes of Limited Transposition’ and arguably Messiaen’s favourite interval) and that the tritone is symmetric at the minor third, perhaps this informs the ubiquity and elevated status of the minor third in this movement. 
+[33] Paul Griffiths, Olivier Messiaen and the Music of Time. (London: Faber and Faber, 2009): 105
+[34] Olivier Messiaen, Technique de mon langage musical (France: Alphonse Leduc, 1956): 47-50
+[35] It is interesting to note that the piano ostinato at the opening of ‘Liturgie de cristal’ (1st movement of Quartet) follows a repeating cycle or ‘tala’ of 29 beats. 29 was a number of particular significance to Messiaen, as it is the “number of four-note pitch sets that remain separate however transposed or inverted”, in addition to it being a prime number.
+Source: Paul Griffiths. Olivier Messiaen and the Music of Time. (London: Faber and Faber, 2009): 92
+[36] Paul Griffiths. Olivier Messiaen and the Music of Time. (London: Faber and Faber, 2009): 102
+[37]Claude Samuel; Olivier Messiaen, Olivier Messiaen: Music and Color: Conversations with Claude Samuel. (Hal Leonard Publishing Corporation, 2003): 44
+Retrieved from: Nigel Simeone; Christopher Dingle, Olivier Messiaen: Music, Art, and Literature (Farnham, Ashgate, 2007): p. 66
+[38] ibid.
+[39] Paul Griffiths. Olivier Messiaen and the Music of Time. (London: Faber and Faber, 2009): 94
+[40] C# → E instead of E →  C#; same ending as in Debussy’s Prélude à l'après-midi d'un faune
+[41] David Madden, Advocating Sonic Restoration: Les Ondes Martenot in Practice. (Wi: Journal of Mobile Culture. 2013): 3
+[42] Rebecca Rischin, For the End of Time, The Story of the Messiaen Quartet (Cornell University Press, New York 2003): 52
+[43] Alan Coady, “Messiaen's Quartet for the End of Time transfixes Edinburgh International Festival audience,” Bachtrack.com (2014)
+[44] “...though the effect may not be to bring time to a half, it is at least to hint that time is more unruly and incomprehensible than earlier music had assumed.”
+Source: Paul Griffiths. Olivier Messiaen and the Music of Time. (London: Faber and Faber, 2009): 106
+
+
+[45] David Madden, “Advocating Sonic Restoration: Les Ondes Martenot in Practice”. (Wi: Journal of Mobile Culture, 2013): 22
+[46] Tristan Jehan,  Perceptual Synthesis Engine: An Audio-Driven Timbre Generator (Thesis for Master of Science in Media Arts and Sciences at the Massachusetts Institute of Technology, 2001): 7
+[47] Douglas Martin, "Jeanne Loriod, Who Transformed Electronic Wails Into Heartfelt Music, Dies at 73", (New York Times, 19 August 2001)
+[48]Unable to retrieve the name of the author and article
+Retrieved from: Thomas Bloch, “Music for Ondes Martenot - About this Recording”. Naxos Music. (2004)
+[49] Ibid. 
+[50] Olivier Messiaen; Stephen Broad, Olivier Messiaen: Journalism 1935-1939 (Burlington, VT: Ashgate, 2012): 92
+
+
+[51] De Leeuw, Ton, and Rokus De Groot. Timbre. In Music of the Twentieth Century: A Study of Its Elements and Structure. (Amsterdam University Press, 2005): 97-116.
+[52] Istvan Lang, "The Effect of the Recording Process on European Classical Music." (The World of Music 27, no. 3, 1985): 114-21
+[53]Or alternatively, Varese’s idea of creating a performance hall in which speakers are built into the wall surrounding the audience.
+Source: Varèse, Edgard. "The Liberation of Sound." Perspectives of New Music 5, no. 1 (1966): 11-19.
