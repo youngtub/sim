@@ -1,1 +1,1 @@
-web: gunicorn main:app --log-level debug -t 500 -w 1 -b 127.0.0.1:8007
+web: gunicorn main:app --log-level debug -t 500 -w 1
